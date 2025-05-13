@@ -1,0 +1,5 @@
+[boldreports]
+name=Bold Reports Repository
+baseurl=https://rpm.boldreports.com/RPM/repo/
+enabled=1
+gpgcheck=0
